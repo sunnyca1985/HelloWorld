@@ -1,2 +1,3 @@
 # HelloWorld
-hello worl
+hello world
+I am made of node.js and coffeescript.
